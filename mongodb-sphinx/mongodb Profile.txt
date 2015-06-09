@@ -1,0 +1,9 @@
+db.setProfilingLevel(2); 
+
+    0 – 不开启
+　　1 – 记录慢命令 (默认为>100ms)
+　　2 – 记录所有命令
+
+
+db.system.profile.find() 
+
