@@ -1,10 +1,10 @@
-创建
+#创建
     抽象工厂（Abstact Factory）
     建造者(Builder Pattern)
     工厂方法(Factory Method pattern)
     原型(Prototype pattern)
     单例模式(Singleton pattern)
-结构
+#结构
     适配器(Adapter pattern)
     桥接(Bridge pattern)
     组合(Composite pattern)
@@ -12,7 +12,7 @@
     外观(Fa?ade pattern)
     享元(Flyweight pattern)
     代理(Proxy pattern)
-行为
+#行为
     职责链(Chain-of-responsibility pattern)
     命令(Command pattern)
     解释器(Interpreter pattern)
